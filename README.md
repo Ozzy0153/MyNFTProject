@@ -27,5 +27,5 @@ Example metadata URI: `ERROR`
 
 ## Project Repository
 
-GitHub URL: `https://github.com/<Your_Github_Username>/MyNFTProject`
+GitHub URL: `https://github.com/Ozzy0153/MyNFTProject`
 
